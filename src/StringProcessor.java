@@ -23,3 +23,4 @@ public class StringProcessor {
         processStrings(words, lengthFilter, reverser, printer);
     }
 }
+

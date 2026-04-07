@@ -42,3 +42,4 @@ public class ProductAnalyzer {
                 System.out.println(category + ": " + productList));
     }
 }
+
